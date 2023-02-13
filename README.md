@@ -30,7 +30,7 @@
 	<a href="mailto:quswldns123@naver.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
-	<a href="https://lace-scarer-b00.notion.site/10dc18e355924ea196bee45378a29cff">
+	<a href="https://byeon-jiun.notion.site/10dc18e355924ea196bee45378a29cff">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
 	<br>
