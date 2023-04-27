@@ -20,7 +20,9 @@
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byeon-jiun&layout=compact"/><br><br>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byeon-jiun&layout=compact"/><br><br>
+![byeon-jiun GitHub stats](https://github-readme-stats.vercel.app/api?username=byeon-jiun&show_icons=true&theme=dracula&count_private=true&hide_title=true)
+<br><br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feroul-ri%2F&count_bg=%233D3D3D&title_bg=%23111111&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=true)](https://github.com/byeon-jiun/byeon-jiun)
 
 <div align=center>
